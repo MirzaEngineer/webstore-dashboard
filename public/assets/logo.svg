@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 60" width="320" height="83">
+	<title>logo</title>
+	<defs>
+		<image  width="222" height="56" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAN4AAAA4BAMAAABgVFsbAAAAAXNSR0IB2cksfwAAAC1QTFRFAAAA////////////////////////////////////////////////////////oUirmwAAAA90Uk5TAP8wclQDOHNNAQAFDxNGbxPtmQAAAuBJREFUeJy9mTty2zAQQIHEFSvzCvadULPLjC6Q66jmFXwoyw1bhcD+8RGVGS1RUBBE7sMu9gNCMUibQ/gOzi0anD9QeDN8OAOZN1PHF0i8WYZcgciL7/vlfsMPdx5z3IHR4PyBhacjofT9gDHUgecbhrEFuAIjrJgRn4FeFo0d6e0MXsjLwmtlemOv4s090Rnoo2DsF6H/K02fH18Hd/z5+Ms8UW9mxq6g5k3XfE0DYfuv29IOr+WJ/GjaL6nlKaW6vK7UI94agId37DzF0OwObwA84m1LuaN8VzwT531e36RirZZXzAl3VLwSdazggNdXcO0OF/krTDLfUfHsfmLAG/rMgJcfpMlYXlbvJivY8MjVAi4Jrlq+XqgHoqmT5aN6+a6pUJiX4/5HElmPpzyOfEB4YALklg7yMpp5v4hXMooqtiMeCQZTJeGtZG/dWdAiLW/m7Qt97/AmJRj9O0/hUg/rDpnY8iBhKhc95BVbJXKKzBRMlt3n0fpB1gYeDgx4lythah4sKXeQl4KaKPkn1gMMiazgIx44Basl2UrmEwL6leineTNBAin4UD+YuNUGgxTVSg95qB6as7CPeYUlPE7pjGFHbXiz2uyigk/wFnD4VLltBeb4Ex5Vc+Hdb8P4s7ygYtDqpRy15s0cA9y+h/lFFZ+al/RCgv9iCjS82zvHOLd7HOVPSmOJHYR4aNjpCjZlHuVa4gXJYboN6gPMmGtbw4N40fGpeNsSpcrK8o154nYtr2RLFS+23sJyb1G2u8/wqDxIN4XKX2x+BYNyxAAPRD/BE2+gCjfkpWa/lB/8rfa7xzxwTMmLigfWmnQhtPtBGHhTPOsuD/afK/XF/9lFUG2q74a3j2zP8V7X1PuK5Xm9r8j72Dj8Xsrjtz3D83vf5H214Tmpp88LNM8Lp89DVPz5nofgIc+PKn9eOH2exc39PMsCTzivM0A3X9G8s89bTz9PPv28/Jz/A/4BgBMq7LF0JcEAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 45px;fill: #ffffff;font-weight: 700;font-family: "DejaVuSans-Bold", "DejaVu Sans" } 
+	</style>
+	<use id="Background" href="#img1" x="5" y="2"/>
+	<text id="Supply" style="transform: matrix(1,0,0,1,57.75,46.75)" >
+		<tspan x="0" y="0" class="t0">Suppl</tspan><tspan  y="0" class="t0">y</tspan><tspan  y="0" class="t0">
+</tspan>
+	</text>
+</svg>
